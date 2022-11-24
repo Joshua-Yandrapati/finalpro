@@ -4,13 +4,13 @@ Web Technologies used: HTML, CSS, JS.
 
 IDE: VS-Code
 
-Industry : Lifestyle
+Industry : Ed-Tech
 
-Project Title : 
+Project Title : MobileAppDevelopment
 
-Problem Statement/Opportunity : 
+Problem Statement/Opportunity : This website states the statement of MobileAppDevelopment 
 
-Project Description : 
+Project Description : Mobile application development is the process of creating software applications that run on a mobile device, and a typical mobile application utilizes a network connection to work with remote computing resources.
 
 Primary Azure Technology : Static Web Apps, App Service
 
