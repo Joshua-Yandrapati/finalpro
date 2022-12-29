@@ -32,7 +32,9 @@ App Services URL : https://mobileappdeva6.azurewebsites.net
 
 ## Azure Services Used
 ![Screenshot 2022-11-22 200108](https://user-images.githubusercontent.com/116268897/203340167-1b3c7c97-7473-4d70-b9c0-d12d5c30d69e.jpg)
+## Static Web app
 ![image](https://user-images.githubusercontent.com/116268897/209941465-84a7c354-2d7c-4ae2-af98-0903dc1691ba.png)
+## App Services
 ![image](https://user-images.githubusercontent.com/116268897/209941528-f2689bf1-a10f-47ff-9f41-769a7c5876c3.png)
 
 
